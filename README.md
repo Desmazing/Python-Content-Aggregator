@@ -11,3 +11,6 @@
 
 #### Step 3: Creating Home Page View
 #####    	Set up templates(html) and static files (css and images)
+#####       Run unit tests to ensure the correct content is displayed
+
+#### Step 4: Parsing Podcast RSS Feeds
