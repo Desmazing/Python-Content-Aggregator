@@ -20,3 +20,4 @@
 #### Step 5: Creating a Django Custom Command
 #####       The goal is to exexute scripts within the project to interact with it while the Django or production server is also running.
 #####       Utilises manage.py command utility
+#####       Create appropriate directories and a file for command storage
