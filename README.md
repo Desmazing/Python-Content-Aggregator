@@ -14,3 +14,9 @@
 #####       Run unit tests to ensure the correct content is displayed
 
 #### Step 4: Parsing Podcast RSS Feeds
+#####       feedparser.parse() fetches and automatically parses the feed into a usable Python object
+#####       All podcasts have RSS feeds.
+
+#### Step 5: Creating a Django Custom Command
+#####       The goal is to exexute scripts within the project to interact with it while the Django or production server is also running.
+#####       Utilises manage.py command utility
