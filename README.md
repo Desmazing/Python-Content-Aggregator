@@ -26,3 +26,16 @@
 #### Step 6: Adding more feeds to the content aggregator
 #####       Refactoring the pasrsing code for more general use.
 #####       Adding functions for each individual podcast.
+
+#### Step 7: Scheduling tasks with django-apscheduler
+#####       Django implementation of the APScheduler library
+#####       Schedule fetching
+#####       Schedule deletion of old jobs weekly
+#####       Include an interval trigger for both
+
+#### Step 8: Sit back, Relax and Enjoy your Implementation
+#### Learnt:
+#####       Parsing RSS feeds into Python objects using Feedparser library
+#####       Execution of custom commands in Django
+#####       Apscheduler in Django to automate custom commands
+#####       Inclusion of unit tests in Django
