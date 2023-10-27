@@ -21,3 +21,8 @@
 #####       The goal is to exexute scripts within the project to interact with it while the Django or production server is also running.
 #####       Utilises manage.py command utility
 #####       Create appropriate directories and a file for command storage
+
+
+#### Step 6: Adding more feeds to the content aggregator
+#####       Refactoring the pasrsing code for more general use.
+#####       Adding functions for each individual podcast.
