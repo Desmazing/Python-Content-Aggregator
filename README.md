@@ -40,3 +40,4 @@
 #####       Apscheduler in Django to automate custom commands
 #####       Inclusion of unit tests in Django
 #####       Viewing admin side of platform in execution
+#####       View custom job execution and storage
