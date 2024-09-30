@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 
 
 def save_new_episodes(feed):
-    """Saves new episodes to the database.
+    """Saves any new episodes to the database.
     Checks episode GUID against the episodes in the database.
     If not found, then a new episode is added to the database.
     
